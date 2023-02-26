@@ -13,7 +13,7 @@ import code
 import pprint
 
 # Script version
-VERSION = '1.0'
+VERSION = '1.1'
 
 # Options definition
 parser = argparse.ArgumentParser(description="version: " + VERSION)
